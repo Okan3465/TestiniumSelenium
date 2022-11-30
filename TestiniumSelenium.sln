@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestiniumSelenium", "TestiniumSelenium\TestiniumSelenium.csproj", "{FAB4566B-DC69-4B03-8733-D059828C16B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{69CD5DCF-4F5B-4C6E-8F69-9579E0AED0EB}"
+	ProjectSection(SolutionItems) = preProject
+		UserInfo.csv = UserInfo.csv
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB4566B-DC69-4B03-8733-D059828C16B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB4566B-DC69-4B03-8733-D059828C16B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB4566B-DC69-4B03-8733-D059828C16B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB4566B-DC69-4B03-8733-D059828C16B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D53296F0-1BD3-4112-A233-1D357B7CE426}
+	EndGlobalSection
+EndGlobal
